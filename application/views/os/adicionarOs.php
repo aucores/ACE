@@ -74,18 +74,18 @@
                                         </div>
 
                                         <div class="span3">
-                                            <label for="garantia">T. Pele</label>
+                                            <label for="garantia">Fototipo</label>
                                             <input id="garantia" type="text" class="span12" name="garantia" value=""  />
                                         </div>
                                     </div>
 
                                     <div class="span12" style="padding: 1%; margin-left: 0">
-                                        <label for="descricaoProduto">Descrição</label>
+                                        <label for="descricaoProduto">Observações</label>
                                         <textarea class="span12 editor" name="descricaoProduto" id="descricaoProduto" cols="30" rows="5"></textarea>
                                     </div>
 
                                     <div class="span12" style="padding: 1%; margin-left: 0">
-                                            <label for="observacoes">Observações</label>
+                                            <label for="observacoes">EVOLUÇÃO DE TRATAMENTO</label>
                                             <textarea class="span12 editor" name="observacoes" id="observacoes" cols="30" rows="5"></textarea>
                                         </div>
 
