@@ -89,7 +89,7 @@ $totalProdutos = 0;?>
                                 </td>
 
                                 <td>
-                                <b>T. Pele: </b>
+                                <b>FOTOTIPO: </b>
                                 <?php echo $result->garantia; ?>
                                 </td>
 
@@ -99,7 +99,7 @@ $totalProdutos = 0;?>
                             <?php if($result->descricaoProduto != null){?>
                             <tr>
                                 <td colspan="3">
-                                <b>DESCRIÇÃO: </b>
+                                <b>OBSERVAÇÕES: </b>
                                 <?php echo htmlspecialchars_decode($result->descricaoProduto) ?>
                                 </td>
                             </tr>
@@ -108,7 +108,7 @@ $totalProdutos = 0;?>
                             <?php if($result->observacoes != null){?>
                             <tr>
                                 <td colspan="3">
-                                <b>OBSERVAÇÕES: </b>
+                                <b>EVOLUÇÃO DE TRATAMENTO: </b>
                                 <?php echo htmlspecialchars_decode($result->observacoes)?>
                                 </td>
                             </tr>
