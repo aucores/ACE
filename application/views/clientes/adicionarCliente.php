@@ -25,7 +25,7 @@
                         </div>
                     </div>
                     <div class="control-group">
-                        <label for="telefone" class="control-label">Telefone<span class="required">*</span></label>
+                        <label for="telefone" class="control-label">RG<span class="required">*</span></label>
                         <div class="controls">
                             <input id="telefone" type="text" name="telefone" value="<?php echo set_value('telefone'); ?>"  />
                         </div>
