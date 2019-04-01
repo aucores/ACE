@@ -57,7 +57,7 @@
                                         <table class="table table-bordered">
                                             <tbody>
                                                 <tr>
-                                                    <td style="text-align: right; width: 30%"><strong>Telefone</strong></td>
+                                                    <td style="text-align: right; width: 30%"><strong>RG</strong></td>
                                                     <td><?php echo $result->telefone ?></td>
                                                 </tr>
                                                 <tr>
