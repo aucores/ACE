@@ -56,7 +56,7 @@ if (!$results) {?>
             <th>#</th>
             <th>Nome</th>
             <th>CPF/CNPJ</th>
-            <th>Telefone</th>
+            <th>RG</th>
             <th></th>
         </tr>
     </thead>
