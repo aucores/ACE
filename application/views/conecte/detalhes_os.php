@@ -215,11 +215,14 @@
           <label for="formaPgto">Forma Pgto</label>
           <select name="formaPgto" id="formaPgto" class="span12">
             <option value="Dinheiro">Dinheiro</option>
-            <option value="Cartão de Crédito">Cartão de Crédito</option>
-            <option value="Cheque">Cheque</option>
-            <option value="Boleto">Boleto</option>
-            <option value="Depósito">Depósito</option>
-            <option value="Débito">Débito</option>        
+		    			<option value="Cartão de Crédito">Cartão de Crédito</option>
+		    			<option value="Crédito Recorrente">Crédito Recorrente</option>
+		    			<option value="Boleto">Boleto</option>
+		    			<option value="Depósito">Depósito</option>
+		    			<option value="Débito">Débito</option>
+		    			<option value="Peixe Urbano">Peixe Urbano</option>
+		    			<option value="Dinheiro+Crédito">Dinheiro+Crédito</option>
+		    			<option value="Dinheiro+Débito">Dinheiro+Débito</option>  
           </select> 
       </div>
       
