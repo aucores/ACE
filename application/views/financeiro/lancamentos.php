@@ -266,8 +266,7 @@ if (!$results) {?>
 		    			<option value="Depósito">Depósito</option>
 		    			<option value="Débito">Débito</option>
 		    			<option value="Peixe Urbano">Peixe Urbano</option>
-		    			<option value="Dinheiro+Crédito">Dinheiro+Crédito</option>
-		    			<option value="Dinheiro+Débito">Dinheiro+Débito</option>			
+		    						
 		    		</select>
 		    	</div>
 	    	</div>
@@ -415,8 +414,8 @@ if (!$results) {?>
               <option value="Boleto">Boleto</option>
               <option value="Depósito">Depósito</option>
               <option value="Débito">Débito</option>
-	      <option value="Dinheiro+Crédito">Dinheiro+Crédito</option>
-		<option value="Dinheiro+Débito">Dinheiro+Débito</option>
+		<option value="Peixe Urbano">Peixe Urbano</option>
+	      
             </select>
           </div>
         </div>
