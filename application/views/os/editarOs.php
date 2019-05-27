@@ -68,6 +68,7 @@
                                                 <option <?php if ($result->status == 'Em Andamento') { echo 'selected'; } ?> value="Em Andamento">Em Andamento</option>
                                                 <option <?php if ($result->status == 'Finalizado') { echo 'selected'; } ?> value="Finalizado">Finalizado</option>
                                                 <option <?php if ($result->status == 'Cancelado') { echo 'selected'; } ?> value="Cancelado">Cancelado</option>
+						<option <?php if ($result->status == 'Apagar') { echo 'selected'; } ?> value="Apagar">Apagar</option>
                                             </select>
                                         </div>
                                         <div class="span3">
