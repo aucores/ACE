@@ -21,6 +21,7 @@
                 <option value="Orçamento">Orçamento</option>
                 <option value="Finalizado">Finalizado</option>
                 <option value="Cancelado">Cancelado</option>
+                <option value="Apagar">Apagar</option>
             </select>
 
         </div>
