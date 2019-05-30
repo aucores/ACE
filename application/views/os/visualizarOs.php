@@ -9,6 +9,7 @@ $totalProdutos = 0;?>
                 </span>
                 <h5>Ordem de Serviço</h5>
                 <div class="buttons">
+                    <a target="_blank" title="whats" class="btn btn-mini btn-success" href="https://wa.me/5565<?php echo $result->celular; ?>"><i class="icon-phone icon-white"></i> WhatsApp</a>
                     <?php if ($this->permission->checkPermission($this->session->userdata('permissao'), 'eOs')) {
                         echo '<a title="Icon Title" class="btn btn-mini btn-info" href="'.base_url().'index.php/os/editar/'.$result->idOs.'"><i class="icon-pencil icon-white"></i> Editar</a>';
 } ?>
