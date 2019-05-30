@@ -57,6 +57,7 @@
                                 <select name="status" id="" class="span12">
                                     <option value=""></option>
                                     <option value="Orçamento">Orçamento</option>
+                                    <option value="Faturado">Faturado</option>
                                     <option value="Aberto">Aberto</option>
                                     <option value="Em Andamento">Em Andamento</option>
                                     <option value="Finalizado">Finalizado</option>
